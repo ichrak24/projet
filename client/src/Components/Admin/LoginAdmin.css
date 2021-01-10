@@ -1,0 +1,38 @@
+.y
+{
+
+ margin:0;
+  padding:10;
+    background-image: url(https://www.orfonline.org/wp-content/uploads/2019/04/Health-as-a-poll-issue.jpg);
+    -webkit-background-size: cover;
+      background-repeat: no-repeat;
+     
+      background-size: cover;
+       min-width: 100%;
+ min-height: 100%;
+  position: fixed; 
+ top: 0; 
+ left: 0; 
+     
+
+
+
+
+
+
+}
+.c{
+  padding:3px 2px;
+  margin: 5px;
+}
+
+.card {
+
+ border-radius: 5px;
+}
+
+
+
+
+
+
